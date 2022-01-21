@@ -7,7 +7,7 @@ import wget
 import os
 from PIL import Image
 from pyrogram.errors import UserNotParticipant, UserBannedInChannel
-AUTH_USERS = set(int(x) for x in os.environ.get("AUTH_USERS", "1248974748 1401477467").split())
+AUTH_USERS = set(int(x) for x in os.environ.get("AUTH_USERS", "5293071382 5004379687").split())
 
     
 ytregex = r"^((?:https?:)?\/\/)?((?:www|m)\.)?((?:youtube\.com|youtu.be))(\/(?:[\w\-]+\?v=|embed\/|v\/)?)([\w\-]+)(\S+)?$"
