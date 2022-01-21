@@ -6,7 +6,7 @@
     "Youtube","YoutubeDownloader"
   ],
   "repository": "https://github.com/toolseeker/test2",
-  "success_url": "https://t.me/tg_utubebot",
+  "success_url": "https://t.me/szjfivfuogbot",
   "website": "https://github.com/toolseeker/test2",
   "env": {
         "API_ID": {"description": "Get this value from https://my.telegram.org", "required": true},
