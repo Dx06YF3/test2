@@ -7,8 +7,6 @@
 `API_HASH` : Goto [my.telegram.org](https://my.telegram.org) to obtain this.
 
 `BOT_TOKEN` : Get the bot token from [@BotFather](https://telegram.dog/BotFather)
-  
-`AUTH_USERS` : Get your user id, Goto [@MissRose_bot](https://telegram.me/MissRose_bot) and type `/id`
 </details>
 
 <details>
