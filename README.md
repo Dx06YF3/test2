@@ -18,7 +18,7 @@
   
 Press the below button to  deploy on Heroku <br>
   
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/toolseeker/test2)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Dx06YF3/test2)
 
 
 </details>
