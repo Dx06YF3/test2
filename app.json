@@ -5,15 +5,14 @@
   "keywords": [
     "Youtube","YoutubeDownloader"
   ],
-  "repository": "https://github.com/toolseeker/test2",
-  "success_url": "https://t.me/szjfivfuogbot",
-  "website": "https://github.com/toolseeker/test2",
+  "repository": "https://github.com/Dx06YF3/test2",
+  "success_url": "https://t.me",
+  "website": "https://github.com/",
   "env": {
         "API_ID": {"description": "Get this value from https://my.telegram.org", "required": true},
         "API_HASH": {"description": "Get this value from https://my.telegram.org" , "required": true},
         "BOT_TOKEN": {"description": "Get Bot Token From BotFather Bot","required": true},
-        "AUTH_USERS": {"description": "Authorize user(s) ID separate by space","required": true}
-  },
+      },
       "buildpacks": [
         {"url": "https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest.git"},
         {"url": "heroku/python"}
